@@ -28,3 +28,13 @@ h1 {
     border-radius: 2px;
     
 }
+#btn_no {
+    background-color: darkgray;
+    border-color:darkolivegreen;
+    color: black;
+    font-size: large;
+    padding: 32px;
+    text-align: center;
+    border-radius: 2px;
+    
+}
